@@ -1,2 +1,2 @@
 # CustomerManagement-django
-First django application, build from Dennys Ivy tutorial.
+First django application, built from Dennys Ivy tutorial.
