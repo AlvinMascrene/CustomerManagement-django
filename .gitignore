@@ -6,3 +6,17 @@ accounts/__pycache__/forms.cpython-37.pyc
 accounts/__pycache__/models.cpython-37.pyc
 accounts/__pycache__/urls.cpython-37.pyc
 accounts/__pycache__/views.cpython-37.pyc
+.vscode/settings.json
+.gitignore
+accounts/__pycache__/filters.cpython-37.pyc
+accounts/migrations/__pycache__/__init__.cpython-37.pyc
+accounts/migrations/__pycache__/0001_initial.cpython-37.pyc
+accounts/migrations/__pycache__/0002_order_product.cpython-37.pyc
+accounts/migrations/__pycache__/0003_auto_20200813_2250.cpython-37.pyc
+accounts/migrations/__pycache__/0004_auto_20200813_2256.cpython-37.pyc
+accounts/migrations/__pycache__/0005_auto_20200814_0737.cpython-37.pyc
+accounts/migrations/__pycache__/0006_order_note.cpython-37.pyc
+accounts/migrations/__init__.py
+customerManagement/__init__.py
+customerManagement/__pycache__/__init__.cpython-37.pyc
+accounts/__pycache__/decorators.cpython-37.pyc
