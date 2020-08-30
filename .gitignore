@@ -20,3 +20,5 @@ accounts/migrations/__init__.py
 customerManagement/__init__.py
 customerManagement/__pycache__/__init__.cpython-37.pyc
 accounts/__pycache__/decorators.cpython-37.pyc
+accounts/migrations/__pycache__/0007_customers_user.cpython-37.pyc
+accounts/migrations/__pycache__/0008_customers_profile_pic.cpython-37.pyc
